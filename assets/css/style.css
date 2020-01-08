@@ -54,6 +54,11 @@
     padding: 10px;
     display: none;
 }
+
+.upload-area .preview-icon:hover + .preview-box{
+    display: block;
+}
+
 .upload-area .preview-box{
     display: none;
     position: absolute;
